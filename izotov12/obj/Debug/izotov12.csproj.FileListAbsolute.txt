@@ -1,0 +1,10 @@
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\bin\Debug\izotov12.exe.config
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\bin\Debug\izotov12.exe
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\bin\Debug\izotov12.pdb
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.Properties.Resources.resources
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.exe
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.pdb
+C:\Users\why_t\Downloads\Lab12-14\12\ya12\izotov12\obj\Debug\izotov12.Form1.resources
